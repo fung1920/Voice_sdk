@@ -1,0 +1,6 @@
+C:\Users\Fung\Desktop\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs.exe
+C:\Users\Fung\Desktop\voice_recognition.cs\obj\x64\Debug\voice_recognition.cs.pdb
+C:\Users\Fung\Desktop\voice_recognition.cs\bin\x64\Debug\voice_recognition.cs.exe
+C:\Users\Fung\Desktop\voice_recognition.cs\bin\x64\Debug\voice_recognition.cs.pdb
+C:\Users\Fung\Desktop\voice_recognition.cs\bin\x64\Debug\libpxcclr.dll
+C:\Users\Fung\Desktop\voice_recognition.cs\obj\x64\Debug\Voice_sdk.csprojResolveAssemblyReference.cache
